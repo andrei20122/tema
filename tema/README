@@ -1,0 +1,12 @@
+Leahu Morie Robert Andrei 321 CB
+
+TASK 1
+-am facut o structura in care am definit header si info 
+-fac un buffer in care citesc linie cu linie 
+-variabila zero completeaza spatiile goale din offset
+-dupa facem matricea de pixeli
+-citesc linie cu linie si o despart in comanda si argument 
+-in edit citesc pe ranf header ,info si imaginea ,ignorand offset ul 
+-in save scriu pe rand header, info si imagine ,completand offset ul 
+cu biti de 0
+-in quit eliberez memoria si termin programul
